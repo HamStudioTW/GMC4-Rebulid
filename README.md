@@ -11,4 +11,4 @@
 
 # GMC4-Rebulid
 
-This is Rebulid of "大人の科学マガジン(No.24): 4ビットマイコン" GMC
+This is Rebulid of "大人の科学マガジン(No.24): 4ビットマイコン" GMC4
